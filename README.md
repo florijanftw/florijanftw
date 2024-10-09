@@ -5,7 +5,7 @@
 I'm a full-stack developer with a passion for building digital solutions. From back-end development to front-end designs, I love crafting efficient and scalable applications. 
 
 - 🌍 I'm based in [Viersen](https://en.wikipedia.org/wiki/Viersen)
-- 🔭 Currently working on: BlitzKeys.com
+- 🔭 Currently working on: [BlitzKeys.com](https://blitzkeys.com)
 - 👨‍💻 Tech Stack: Full Stack Development, FiveM, React, ExpressJS, WooCommerce, Vite, etc.
 - 🌱 Learning: New technologies to enhance my web and software development skills.
 - 🎮 Fun fact: I'm working on a FiveM server called **Balkan Glory Roleplay**
