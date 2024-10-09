@@ -1,11 +1,11 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Florijan
 
 ## 🚀 About Me
 
 I'm a full-stack developer with a passion for building digital solutions. From back-end development to front-end designs, I love crafting efficient and scalable applications. 
 
-- 🌍 I'm based in [Your Location]
-- 🔭 Currently working on: [Current Projects]
+- 🌍 I'm based in Viersen, Germany
+- 🔭 Currently working on: BlitzKeys.com
 - 👨‍💻 Tech Stack: Full Stack Development, FiveM, React, ExpressJS, WooCommerce, Vite, etc.
 - 🌱 Learning: New technologies to enhance my web and software development skills.
 - 🎮 Fun fact: I'm working on a FiveM server called **Balkan Glory Roleplay**
@@ -41,13 +41,13 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://www.linkedin.com)
+- Email: [info@flobyte.de](mailto:info@flobyte.de)
+- LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/florijan-istrefi-503b92331/)]([https://www.linkedin.com](https://www.linkedin.com/in/florijan-istrefi-503b92331/))
 - Website: [blitzkeys.com](https://blitzkeys.com)
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=florijanftw&show_icons=true&theme=radical)
 
 ---
 
