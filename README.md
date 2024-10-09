@@ -42,12 +42,8 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 ## 📫 How to Reach Me
 
 - Email: [info@flobyte.de](mailto:info@flobyte.de)
-- LinkedIn: [[your-linkedin-profile](https://www.linkedin.com/in/florijan-istrefi-503b92331/)]([https://www.linkedin.com](https://www.linkedin.com/in/florijan-istrefi-503b92331/))
+- LinkedIn: [Florijan Istrefi](https://www.linkedin.com/in/florijan-istrefi-503b92331/)
 - Website: [blitzkeys.com](https://blitzkeys.com)
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=florijanftw&show_icons=true&theme=radical)
 
 ---
 
