@@ -13,25 +13,27 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 ## 🛠️ Technologies & Tools
 
 ### Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=sql)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![SCSS](https://img.shields.io/badge/-SCSS-000?style=flat&logo=sass)
 
 ### Frameworks and Libraries:
+![MERN](https://img.shields.io/badge/-MERN-000?style=flat&logo=mongodb&logoColor=green)
 ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
-![ExpressJS](https://img.shields.io/badge/-ExpressJS-000?style=flat&logo=express)
-![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat&logo=jquery)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
 
-### Tools:
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+
+### Tools & Methodologies:
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+![Agile Development](https://img.shields.io/badge/-Agile%20Development-000?style=flat&logo=scrum)
+![Project Development](https://img.shields.io/badge/-Project%20Development-000?style=flat&logo=project)
+
 
 ## 🔧 Currently Working On
 
