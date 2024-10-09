@@ -34,6 +34,10 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 ![Agile Development](https://img.shields.io/badge/-Agile%20Development-000?style=flat&logo=scrum)
 ![Project Development](https://img.shields.io/badge/-Project%20Development-000?style=flat&logo=project)
 
+### Additional Skills:
+- 🚀 **Server Management**: Strong expertise in server management.
+- 🛡️ **DDoS Protection**: Proficient in protecting against DDoS attacks.
+
 
 ## 🔧 Currently Working On
 
@@ -43,9 +47,9 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 
 ## 📫 How to Reach Me
 
-- Email: [info@flobyte.de](mailto:info@flobyte.de)
+- Email: [florijan@florijan.xyz](mailto:florijan@florijan.xyz)
 - LinkedIn: [Florijan Istrefi](https://www.linkedin.com/in/florijan-istrefi-503b92331/)
-- Website: [blitzkeys.com](https://blitzkeys.com)
+- Website: [florijan.xyz](https://florijan.xyz)
 
 ---
 
