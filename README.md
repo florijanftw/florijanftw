@@ -4,7 +4,7 @@
 
 I'm a full-stack developer with a passion for building digital solutions. From back-end development to front-end designs, I love crafting efficient and scalable applications. 
 
-- 🌍 I'm based in Viersen, Germany
+- 🌍 I'm based in [Viersen]([https://www.linkedin.com/in/florijan-istrefi-503b92331/](https://maps.app.goo.gl/fTMexf3LwS6Yd2jo6))
 - 🔭 Currently working on: BlitzKeys.com
 - 👨‍💻 Tech Stack: Full Stack Development, FiveM, React, ExpressJS, WooCommerce, Vite, etc.
 - 🌱 Learning: New technologies to enhance my web and software development skills.
