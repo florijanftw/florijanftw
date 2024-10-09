@@ -41,13 +41,13 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 
 ## 🔧 Currently Working On
 
-- **Balkan Glory Roleplay**: A FiveM server project focused on roleplay
-- **blitzkeys.com**: A website to sell digital game products
+- **[Glory Roleplay](https://balkanglory.com)**: A FiveM server project focused on roleplay
+- **[BlitzKeys.com](https://blitzkeys.com)**: A website to sell digital game products
 - Various front-end and back-end development projects using React, ExpressJS, and more.
 
 ## 📫 How to Reach Me
 
-- Email: [florijan@florijan.xyz](mailto:florijan@florijan.xyz)
+- Email: [info@florijan.xyz](mailto:info@florijan.xyz)
 - LinkedIn: [Florijan Istrefi](https://www.linkedin.com/in/florijan-istrefi-503b92331/)
 - Website: [florijan.xyz](https://florijan.xyz)
 
