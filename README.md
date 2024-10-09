@@ -8,7 +8,7 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 - 🔭 Currently working on: [BlitzKeys.com](https://blitzkeys.com)
 - 👨‍💻 Tech Stack: Full Stack Development, FiveM, React, ExpressJS, WooCommerce, Vite, etc.
 - 🌱 Learning: New technologies to enhance my web and software development skills.
-- 🎮 Fun fact: I'm working on a FiveM server called **Balkan Glory Roleplay**
+- 🎮 Fun fact: I'm working on a FiveM server called [Glory Roleplay](https://balkanglory.com)
 
 ## 🛠️ Technologies & Tools
 
