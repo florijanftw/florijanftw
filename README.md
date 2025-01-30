@@ -47,9 +47,9 @@ I'm a full-stack developer with a passion for building digital solutions. From b
 
 ## 📫 How to Reach Me
 
-- Email: [info@florijan.xyz](mailto:info@florijan.xyz)
+- Email: [info@flobyte.de](mailto:info@flobyte.de)
 - LinkedIn: [Florijan Istrefi](https://www.linkedin.com/in/florijan-istrefi-503b92331/)
-- Website: [florijan.xyz](https://florijan.xyz)
+- Website: [flobyte.de](https://flobyte.de)
 
 ---
 
