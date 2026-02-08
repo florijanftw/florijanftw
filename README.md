@@ -84,7 +84,8 @@ const florijan = {
 
 <div align="center">
 
-![Full-Stack](https://img.shields.io/badge/Full--Stack_Engineer-Top_1%25_Developer-FFD700?style=for-the-badge&labelColor=0D1117)
+![Full-Stack](https://img.shields.io/badge/Senior_Full--Stack_Engineer-Top_1%25_Developer-FFD700?style=for-the-badge&labelColor=0D1117)
+![Experience](https://img.shields.io/badge/Experience-5+_Years-58A6FF?style=for-the-badge&labelColor=0D1117)
 ![FiveM](https://img.shields.io/badge/FiveM_Development-Lua_+_JS-blueviolet?style=for-the-badge&labelColor=0D1117)
 ![Server Mgmt](https://img.shields.io/badge/Server_Management-Linux_+_DDoS_Protection-green?style=for-the-badge&labelColor=0D1117)
 
