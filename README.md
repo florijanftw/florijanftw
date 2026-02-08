@@ -27,7 +27,7 @@ const florijan = {
         databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Cloudflare", "Agile"]
     },
-    poweredBy: "Claude AI",
+    poweredBy: "Claude AI // biggest fan btw",
     motto: "If it can be coded, I'll build it."
 };
 ```
@@ -93,7 +93,7 @@ const florijan = {
 ![DevOps](https://img.shields.io/badge/DevOps_Engineer-CI%2FCD_+_Infrastructure-F05032?style=for-the-badge&labelColor=0D1117)
 ![FiveM](https://img.shields.io/badge/FiveM_Development-Lua_+_JS-blueviolet?style=for-the-badge&labelColor=0D1117)
 ![Server Mgmt](https://img.shields.io/badge/Server_Management-Linux_+_DDoS_Protection-green?style=for-the-badge&labelColor=0D1117)
-![Claude AI](https://img.shields.io/badge/Powered_By-Claude_AI_%E2%9D%A4%EF%B8%8F-D4A574?style=for-the-badge&labelColor=0D1117&logo=anthropic&logoColor=white)
+![Claude AI](https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F_Claude_AI-Biggest_Fan-D4A574?style=for-the-badge&labelColor=0D1117&logo=anthropic&logoColor=white)
 
 </div>
 
