@@ -14,17 +14,20 @@
 
 ```js
 const florijan = {
+    title: "Senior Full-Stack & DevOps Engineer",
     location: "Viersen, Germany",
+    experience: "5+ years",
     currentFocus: "Glory Roleplay",
-    roles: ["Full-Stack Developer", "FiveM Developer", "Server Admin"],
+    roles: ["Senior Full-Stack Engineer", "DevOps Engineer", "FiveM Developer", "Server Admin"],
     languages: ["JavaScript", "TypeScript", "Lua", "HTML/CSS", "SCSS", "SQL"],
     technologies: {
         frontEnd: ["React", "Next.js", "Vite", "jQuery"],
         backEnd: ["Node.js", "Express.js"],
+        devOps: ["Docker", "CI/CD", "Linux", "Server Management", "DDoS Protection"],
         databases: ["MongoDB", "MySQL"],
-        tools: ["Git", "Docker", "Linux"]
+        tools: ["Git", "Cloudflare", "Agile"]
     },
-    funFact: "I build entire game server ecosystems from scratch"
+    motto: "If it can be coded, I'll build it."
 };
 ```
 
