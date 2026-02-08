@@ -84,10 +84,11 @@ const florijan = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=florijanftw&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=florijanftw&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=florijanftw&theme=tokyonight" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=florijanftw&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florijanftw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=florijanftw&theme=tokyonight" alt="Top Languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=florijanftw&theme=tokyonight" alt="Most Used Languages"/>
 
 </div>
 
