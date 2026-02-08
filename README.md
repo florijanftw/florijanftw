@@ -23,7 +23,7 @@ const florijan = {
     technologies: {
         frontEnd: ["React", "Next.js", "Vite", "jQuery"],
         backEnd: ["Node.js", "Express.js"],
-        devOps: ["Docker", "CI/CD", "Linux", "Server Management", "DDoS Protection"],
+        devOps: ["Docker", "CI/CD", "Linux", "Windows", "Server Management", "DDoS Protection"],
         databases: ["MongoDB", "MySQL"],
         tools: ["Git", "Cloudflare", "Agile"]
     },
@@ -61,6 +61,7 @@ const florijan = {
 ### Tools & Infrastructure
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
