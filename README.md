@@ -80,16 +80,55 @@ const florijan = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## :bar_chart: GitHub Stats
+## :trophy: What I Bring To The Table
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=florijanftw&theme=tokyonight" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=florijanftw&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![Full-Stack](https://img.shields.io/badge/Full--Stack_Development-3+_Years-58A6FF?style=for-the-badge&labelColor=0D1117)
+![FiveM](https://img.shields.io/badge/FiveM_Development-Lua_+_JS-blueviolet?style=for-the-badge&labelColor=0D1117)
+![Server Mgmt](https://img.shields.io/badge/Server_Management-Linux_+_DDoS_Protection-green?style=for-the-badge&labelColor=0D1117)
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=florijanftw&theme=tokyonight" alt="Top Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=florijanftw&theme=tokyonight" alt="Most Used Languages"/>
+</div>
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**:globe_with_meridians: Web Development**
+
+Building responsive, modern web apps from front to back.
+React, Next.js, Node.js, Express, MongoDB, MySQL.
+
+</td>
+<td align="center" width="50%">
+
+**:video_game: FiveM / Game Development**
+
+Custom Lua scripts, full-stack server panels,
+complete roleplay server ecosystems.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**:shield: Infrastructure & Security**
+
+Server management, DDoS protection,
+deployment & hosting on Linux.
+
+</td>
+<td align="center" width="50%">
+
+**:art: Frontend Design**
+
+Clean, modern UIs with React, SCSS,
+and responsive design principles.
+
+</td>
+</tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -103,12 +142,6 @@ const florijan = {
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://flobyte.de)
 [![Glory Roleplay](https://img.shields.io/badge/Glory_Roleplay-5865F2?style=for-the-badge&logo=fivem&logoColor=white)](https://balkanglory.com)
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=florijanftw&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 <br>
